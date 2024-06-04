@@ -17,6 +17,26 @@
 
 This project involves developing and explaining various JavaScript functions that perform specific tasks such as string manipulation, date handling, URL construction, and more. The aim is to illustrate key programming concepts and best practices in JavaScript through practical examples.
 
+1. How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+   **Answer**: Around 6-8 hours of work time.
+
+2. What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+   **Answer**: Your lectures/github, youtube tutorials on regex and js, and chatGPT for review or to help when stuck.
+
+3. Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+   **Answer**: Nope! But I do gain information from their contributions and answers during lectures.
+
+4. Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+   **Answer**: Nope!
+
+5. Rate (subjectively) the difficulty of Making this all! from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+   **Answer**: I'd rate this a 4/10 in difficulty, as the material was very similar to our covered practice questions and lectures. I did create some of these fuctions with the purpose of reusing them again in the future, and incorporated comments/documentation to make this content easier for review whenever needed.
+
 ## -- KEY CONCEPTS AND LESSONS LEARNED --
 
 ### ----- Key Concepts ----- [AA2]
