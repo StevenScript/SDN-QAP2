@@ -458,7 +458,7 @@ console.log("");
 console.log("--Question 6--");
 console.log("");
 function formatCoords(...values) {
-  const validCoords = []; // Step 1: Initialize an array to hold valid normalized coordinates
+  const validCoords = []; // Initialize an array to hold valid normalized coordinates
 
   // For loop to iterate over each coordinate string
   for (const value of values) {
